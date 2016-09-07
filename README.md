@@ -1,4 +1,4 @@
-# Knex Migrations
+# Knex Migrations Warmup
 
 Using Knex, build migration files for the following one-to-many relationship.
 
